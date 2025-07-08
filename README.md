@@ -1,8 +1,8 @@
 # portfolio-optimization-ml
 Dynamic Portfolio Optimization with Regime Clustering and Machine Learning Forecasting
 
-# 🧠 Adaptive Portfolio Optimization via Market Regime Clustering (Python Project)
-🎯 Project Aim
+#  Adaptive Portfolio Optimization via Market Regime Clustering (Python Project)
+-- Project Aim
 
 The goal of this project is to simulate international financial markets and develop a data-driven strategy that:
 
@@ -14,7 +14,7 @@ Evaluates portfolio performance across regimes
 
 By combining portfolio theory, unsupervised learning, and robust evaluation, the project demonstrates how a quantitative investor can adapt allocations to changing market dynamics.
 
-🔍 Overview
+-- Overview
 
 The codebase is organized into 5 modular blocks, each corresponding to a distinct step in the process. Explanations are embedded directly in the Python files (blocks/blocco_1.py to blocco_5.py) for clarity.
 
@@ -31,7 +31,7 @@ The goal is to **adjust portfolio allocation dynamically** based on market condi
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 - `blocco_1.txt` → Simulate multiregime time series (base + 2 volatility levels)
 - `blocco_2.txt` → Compute rolling volatility and apply KMeans clustering
@@ -42,7 +42,7 @@ The goal is to **adjust portfolio allocation dynamically** based on market condi
 
 ---
 
-## 📊 Core Steps Implemented
+##  Core Steps Implemented
 
 ### ✅ 1. **Synthetic Time Series Simulation**
 - Simulates a multivariate return series with 3 regimes: low, medium, and high volatility.
@@ -82,7 +82,7 @@ The goal is to **adjust portfolio allocation dynamically** based on market condi
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 | Area | Competence |
 |------|------------|
